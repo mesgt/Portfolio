@@ -1,2 +1,2 @@
-# Responsive-portfolio
+# Portfolio
 Portfolio assignment
