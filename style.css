@@ -15,15 +15,17 @@ body {
 }
 
 .container {
-    padding-left: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-top: 35px;
+    padding-bottom: 35px;
     background-color: white;
 } 
  
 img {
     width: 250px;
     height: 250px;
-    margin: 20px 20px 5px;
+    margin: 10px 20px 0px 5px;
 }
 
 #contact-heading {
@@ -36,6 +38,10 @@ img {
 /* button {
     background-color: lightseagreen !important;
     border:lightseagreen;  BORDER IS BLUE, NOT LIGHTSEAGREEN
+} */
+
+/* p {
+    border-right: 30px;
 } */
 
 footer {
