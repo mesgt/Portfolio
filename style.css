@@ -17,9 +17,10 @@ body {
 .container {
     padding-left: 50px;
     padding-right: 50px;
-    padding-top: 35px;
-    padding-bottom: 35px;
+    padding-top: 15px;
+    padding-bottom: 25px;
     background-color: white;
+    max-width: 547px;
 } 
  
 img {
@@ -35,14 +36,14 @@ img {
     font-weight: bolder;
 }
 
-/* button {
+button {
     background-color: lightseagreen !important;
-    border:lightseagreen;  BORDER IS BLUE, NOT LIGHTSEAGREEN
-} */
+    border:lightseagreen;
+}
 
-/* p {
-    border-right: 30px;
-} */
+.btn  {
+    border: 0px;
+}
 
 footer {
     position: fixed;
