@@ -15,7 +15,7 @@ Published website: (https://mesgt.github.io/Portfolio/)
 
 ## Screenshots
 
-About: <a href="https://github.com/mesgt/Portfolio/issues/1#issue-773474448" alt="aboutPage">
+About: <a href="https://github.com/mesgt/Portfolio/issues/1#issue-773474448" alt="aboutPage">About Page Screenshot</a>
 
 Portfolio: <img src = "./Image/Portfolio.jpg" alt="portfolioPage">
 
