@@ -2,31 +2,38 @@ body {
     padding-top:10px;
 }
 
- h1 {
-     color: lightseagreen;
-     font-weight: bolder;
- }
+h1 {
+    color: lightseagreen;
+    font-weight: bolder;
+}
 
- .navbar-light .navbar-brand {
+.navbar-light .navbar-brand {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     background-color:lightseagreen;
     color: white;
 }
 
-.container {
+.contact-container {
     padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 15px;
-    padding-bottom: 25px;
     background-color: white;
-    max-width: 547px;
+    max-width: 550px;
+    margin: 0 auto;
 } 
- 
+
+.container {
+    background-color: white;
+}
+
 img {
     width: 250px;
     height: 250px;
     margin: 10px 20px 0px 5px;
+}
+
+.img-thumbnail {
+    border: none;
+    margin: 0 auto;
 }
 
 #contact-heading {
