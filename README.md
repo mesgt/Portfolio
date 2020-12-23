@@ -15,11 +15,11 @@ Published website: (https://mesgt.github.io/Portfolio/)
 
 ## Screenshots
 
-About: <img src=(./Image/About.jpg) alt="aboutPage">
+About: <img src = "./Image/About.jpg" alt="aboutPage">
 
-Portfolio: <img src=(./Image/Portfolio.jpg) alt="portfolioPage">
+Portfolio: <img src = "./Image/Portfolio.jpg" alt="portfolioPage">
 
-Contact: <img src=(./Image/Contact.jpg) alt="contactPage">
+Contact: <img src = "./Image/Contact.jpg" alt="contactPage">
 
 ## Credits
 
