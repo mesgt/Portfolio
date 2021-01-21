@@ -1,5 +1,5 @@
 # Portfolio
-
+Current examples of my work.
 ## Overview
 
 As part of a class project, this website displays my skills and abilities as a full stack web developer. Thus far, I have learned (and still learning) to code with three main web development languages- HTML, CSS and JavaScript/jQuery. This project also incorporates some bootstrap components, which allow for a more interactive experience for the user. 

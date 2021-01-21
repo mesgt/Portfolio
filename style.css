@@ -31,25 +31,12 @@ img {
     margin: 10px 20px 0px 5px;
 }
 
-#img1 {
-    width: 250px;
-    height: 200px;
-    margin: 10px 20px 0px 5px;
-    border: 10px;
+#portfolioTExt {
+    word-wrap: break-word;
 }
 
-#img2 {
-    width: 250px;
-    height: 200px;
-    margin: 10px 20px 0px 5px;
-    border: 10px;
-}
-
-#img3 {
-    width: 250px;
-    height: 200px;
-    margin: 10px 20px 0px 5px;
-    border: 10px;
+.card {
+    border: none;
 }
 
 .img-thumbnail {
