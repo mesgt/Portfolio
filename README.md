@@ -16,11 +16,17 @@ Linkedin Profile: (https://www.linkedin.com/in/maria-sargent-340a5354/)
 
 ## Screenshots
 
-About: <a href="https://github.com/mesgt/Portfolio/issues/1#issue-773474448" alt="aboutPage">About Page Screenshot</a>
+About:
+<br>
+<img src="assets/image/About.jpg" alt="about page" width="300" />;
 
-Portfolio: <a href="https://github.com/mesgt/Portfolio/issues/2#issue-773478307" alt="portfolioPage">Portfolio Page Screenshot</a>
+Portfolio: 
+<br>
+<img src="assets/image/Portfolio.jpg" alt="portfolio page" width="300" />;
 
-Contact: <a href="https://github.com/mesgt/Portfolio/issues/3#issue-773479744" alt="contactPage">Contact Page Screenshot</a>
+Contact: 
+<br>
+<img src="assets/image/Contact.jpg" alt="contact page" width="300" />;
 
 ## Credits
 
